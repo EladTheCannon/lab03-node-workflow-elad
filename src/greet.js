@@ -3,4 +3,5 @@ function greet(name) {
   return `Hello, ${name}!`;
 }
 
+console.log("this is a test");
 module.exports = { greet };
